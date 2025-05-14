@@ -36,8 +36,8 @@ Set up the material and light source information given in the assignment
 make calculate_blinn_phong_shading function
 
 ![image](https://github.com/user-attachments/assets/b8212be3-0d4f-44f0-9504-eb87356d5c45)
-
 ![image](https://github.com/user-attachments/assets/20e1c511-0e00-4e39-8c03-5caa140ee590)
+![image](https://github.com/user-attachments/assets/5dd87224-0e83-4efb-9cde-c8779116b8cd)
 
 calculate flat shading
 
